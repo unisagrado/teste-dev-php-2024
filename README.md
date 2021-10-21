@@ -8,6 +8,8 @@ PHP/Laravel no backend.
 Para o frontend você está livre para utilizar Vue como SPA ou mesmo construir
 utilizando templates do laravel, a escolha é sua.
 
+Utilizar, preferencialmente, MySQL ou MariaDB como banco de dados.
+
 ## O que será avaliado?
 
 Avaliaremos:
