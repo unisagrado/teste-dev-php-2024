@@ -1,6 +1,6 @@
 # Teste Desenvolvedor Web-Fullstack
 
-Desenvolva um programa para registrar inscrições de alunos em atividades, lembrando que
+Desenvolva uma aplicação para registrar inscrições de alunos em atividades, lembrando que
 um aluno pode estar em mais de uma atividade e uma atividade pode ter vários alunos
 
 Você deverá desenvolver a aplicação completa (backend, frontend e banco de dados) utilizando
